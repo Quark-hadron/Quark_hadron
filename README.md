@@ -1,6 +1,5 @@
-Header
-![ioonoihol](https://github.com/user-attachments/assets/e5677140-a6ed-4451-943d-bedf5a85f5fc)
-
+##Header
+![Снимок экрана 2025-01-19 153322](https://github.com/user-attachments/assets/c0b995db-3d3b-4065-a550-aa575ad353cf)
 About me
 
 Languages and Tools
